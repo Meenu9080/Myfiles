@@ -1,1 +1,6 @@
-puts "Hello world"
+def sayhello 
+	puts "Hello World"
+end
+
+
+sayhello
